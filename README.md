@@ -16,7 +16,7 @@
 
 格洛芬德尔之剑(Thorondún)   参考：[Thorondún](https://aminoapps.com/c/elvish/page/item/thorondun/Kvg0_70cKIR4aon6rdd24qlBBbKqLXpGbb)
 
-塔里昂之剑-焰之辉(Urfael)   参考：[Urfael](https://shadowofwar.fandom.com/wiki/Urfael)、[塔里昂](https://lotr.huijiwiki.com/wiki/%E5%A1%94%E9%87%8C%E6%98%82)
+塔里昂之剑-焰之辉(Urfael)   参考：[Urfael](https://shadowofwar.fandom.com/wiki/Urfael)、[塔里昂](https://lotr.huijiwiki.com/wiki/%E5%A1%94%E9%87%8C%E6%98%82)、[复仇者与焰之辉](https://www.gcores.com/articles/93429)
 
 塔里昂之剑-复仇者(Acharn)  参考：[Acharn](https://shadowofwar.fandom.com/wiki/Acharn)
 
