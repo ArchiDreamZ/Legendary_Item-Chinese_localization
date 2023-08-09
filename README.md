@@ -8,22 +8,22 @@
 
 ## 汉化说明
 
-模组中有许多内容不是原著内容，而是来自像中土战争2、中土世界战争之影、MERP等这些游戏。
+模组中有许多内容不是原著内容，而是来自像中土战争2、中土世界战争之影、LotROL、MERP等这些游戏。
 
 因此在翻译的时候没有直接音译，而是使用了其主人的名字，并且在后面添加括号标注了原名称。
 
 例如：
 
-格洛芬德尔之剑(Thorondún)
+格洛芬德尔之剑(Thorondún)   参考：[Thorondún](https://aminoapps.com/c/elvish/page/item/thorondun/Kvg0_70cKIR4aon6rdd24qlBBbKqLXpGbb)
 
-塔里昂之剑-焰之辉(Urfael)
+塔里昂之剑-焰之辉(Urfael)   参考：[Urfael](https://shadowofwar.fandom.com/wiki/Urfael)、[塔里昂](https://lotr.huijiwiki.com/wiki/%E5%A1%94%E9%87%8C%E6%98%82)
 
-塔里昂之剑-复仇者(Acharn)
+塔里昂之剑-复仇者(Acharn)  参考：[Acharn](https://shadowofwar.fandom.com/wiki/Acharn)
 
-戴因二世的巨斧(Barazanthual)
+戴因二世的巨斧(Barazanthual)  参考：[Barazanthual](https://lotr.fandom.com/wiki/D%C3%A1in_II)
 
-凯勒布理鹏之弓(Azkâr)
+凯勒布理鹏之弓(Azkâr)  参考：[Azkâr](https://shadowofwar.fandom.com/wiki/Azk%C3%A2r)
 
-摩哥米尔(第三戒灵)(Morgomir)
+摩哥米尔(第三戒灵)(Morgomir)  参考：[Morgomir](https://lotr.fandom.com/wiki/Morgomir)
 
-吉·因杜尔(第四戒灵)(Jí Indûr)
+吉·因杜尔(第四戒灵)(Jí Indûr)  参考：[The Fourth of the Nazgûl](https://notionclubarchives.fandom.com/wiki/The_Fourth_of_the_Nazg%C3%BBl)
