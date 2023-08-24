@@ -27,3 +27,12 @@
 摩哥米尔(第三戒灵)(Morgomir)  参考：[Morgomir](https://lotr.fandom.com/wiki/Morgomir)
 
 吉·因杜尔(第四戒灵)(Jí Indûr)  参考：[The Fourth of the Nazgûl](https://notionclubarchives.fandom.com/wiki/The_Fourth_of_the_Nazg%C3%BBl)
+
+## 魔戒MC中文社区
+该汉化项目属于魔戒MC官方中文社区，是一个面向MC魔戒玩家的中文官方交流群。
+
+社区内有着关于魔戒的所有资源，且入驻有国内所有魔戒大型服务器。
+
+欢迎前来讨论魔戒与进行文创，下载官方汉化Mod、整合包、手机端、建筑包以及其他资源，浏览国内魔戒服务器，参与汉化、整合、wiki编辑、资源分享等。
+
+群号：973932359
