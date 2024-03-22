@@ -73,10 +73,10 @@ item.armor_arvedui_helmet.name=阿维杜伊的头盔
 item.armor_arvedui_boots.name=阿维杜伊的靴子 
 item.armor_arvedui_legs.name=阿维杜伊的护腿
 
-item.armor_jiindur_boots.name=吉·因杜尔(第四戒灵)的靴子
-item.armor_jiindur_chestplate.name=吉·因杜尔(第四戒灵)的胸甲
-item.armor_jiindur_helmet.name=吉·因杜尔(第四戒灵)的头盔
-item.armor_jiindur_legs.name=吉·因杜尔(第四戒灵)的护腿
+item.armor_jiindur_boots.name=第四戒灵-吉·因杜尔的靴子
+item.armor_jiindur_chestplate.name=第四戒灵-吉·因杜尔的胸甲
+item.armor_jiindur_helmet.name=第四戒灵-吉·因杜尔的头盔
+item.armor_jiindur_legs.name=第四戒灵-吉·因杜尔的护腿
 
 item.armor_khommurat_legs.name=可哈穆尔的护腿
 item.armor_khommurat_chestplate.name=可哈穆尔的胸甲
@@ -123,10 +123,10 @@ item.armor_anarion_helmet.name=阿纳瑞安的头盔
 item.armor_anarion_chestplate.name=阿纳瑞安的胸甲
 item.armor_anarion_legs.name=阿纳瑞安的护腿
 
-item.armor_morgomir_chestplate.name=摩哥米尔(第三戒灵)的胸甲
-item.armor_morgomir_legs.name=摩哥米尔(第三戒灵)的护腿
-item.armor_morgomir_boots.name=摩哥米尔(第三戒灵)的靴子
-item.armor_morgomir_helmet.name=摩哥米尔(第三戒灵)的头盔
+item.armor_morgomir_chestplate.name=第三戒灵-摩哥米尔的胸甲
+item.armor_morgomir_legs.name=第三戒灵-摩哥米尔的护腿
+item.armor_morgomir_boots.name=第三戒灵-摩哥米尔的靴子
+item.armor_morgomir_helmet.name=第三戒灵-摩哥米尔的头盔
 
 item.armor_elros_chestplate.name=埃尔洛斯的胸甲
 item.armor_elros_boots.name=埃尔洛斯的靴子
