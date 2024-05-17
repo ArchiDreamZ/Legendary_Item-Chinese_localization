@@ -1,5 +1,5 @@
 # Legendary_Item-Chinese_localization
-传说物品-Legendary Item-v4 精翻汉化
+传说物品-Legendary Item-v4 精翻汉化，该汉化已被合并进官方。
 
 ## 介绍
 该模组是Hummel009制作的传说物品模组，模组添加了原著中出现过的传说武器、盔甲和宝石，所有东西现在都位于“中洲传说”选项卡中。
