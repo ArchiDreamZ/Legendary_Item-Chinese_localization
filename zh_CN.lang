@@ -41,7 +41,7 @@ item.weapon_gothmog.name=勾斯魔格的弯刀
 item.weapon_gorbag.name=戈巴格的弯刀
 item.weapon_shagrat.name=沙格拉特的弯刀
 item.weapon_goblinking.name=半兽人王的手杖
-item.weapon_barazanthual.name=戴因二世的红斧-Barazanthual
+item.weapon_barazanthual.name=戴因二世的红斧-巴拉扎苏尔
 item.weapon_gimli.name=吉姆利之斧
 item.weapon_thorin.name=梭林之剑
 item.weapon_balin.name=巴林之剑
@@ -73,15 +73,15 @@ item.armor_arvedui_helmet.name=阿维杜伊的头盔
 item.armor_arvedui_boots.name=阿维杜伊的靴子 
 item.armor_arvedui_legs.name=阿维杜伊的护腿
 
-item.armor_jiindur_boots.name=第四戒灵-吉·因杜尔的靴子
-item.armor_jiindur_chestplate.name=第四戒灵-吉·因杜尔的胸甲
-item.armor_jiindur_helmet.name=第四戒灵-吉·因杜尔的头盔
-item.armor_jiindur_legs.name=第四戒灵-吉·因杜尔的护腿
+item.armor_jiindur_boots.name=第四戒灵-吉·阴杜的靴子
+item.armor_jiindur_chestplate.name=第四戒灵-吉·阴杜的胸甲
+item.armor_jiindur_helmet.name=第四戒灵-吉·阴杜的头盔
+item.armor_jiindur_legs.name=第四戒灵-吉·阴杜的护腿
 
-item.armor_khommurat_legs.name=第六戒灵-霍阿穆拉斯的护腿
-item.armor_khommurat_chestplate.name=第六戒灵-霍阿穆拉斯的胸甲
-item.armor_khommurat_boots.name=第六戒灵-霍阿穆拉斯的靴子
-item.armor_khommurat_helmet.name=第六戒灵-霍阿穆拉斯的头盔
+item.armor_khommurat_legs.name=第六戒灵-霍尔姆拉斯的护腿
+item.armor_khommurat_chestplate.name=第六戒灵-霍尔姆拉斯的胸甲
+item.armor_khommurat_boots.name=第六戒灵-霍尔姆拉斯的靴子
+item.armor_khommurat_helmet.name=第六戒灵-霍尔姆拉斯的头盔
 
 item.armor_arpharazon_legs.name=阿尔-法拉宗的护腿
 item.armor_arpharazon_helmet.name=阿尔-法拉宗的头盔
