@@ -1,4 +1,6 @@
-﻿/* WEAPON */
+﻿itemGroup.legendarium.artifacts=中洲传说
+
+/* WEAPON */
 item.weapon_aeglos.name=艾格洛斯
 item.weapon_orcrist.name=奥克锐斯特
 item.weapon_anguirel.name=安格微瑞尔
